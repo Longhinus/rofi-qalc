@@ -1,6 +1,6 @@
 # rofi-qalc
 Qalc frontend with rofi. Inspired by [menu-calc](https://github.com/sumnerevans/menu-calc).
-Rofi-qalc comes with an history, and rofi. I wasted to make this because menu-calc was lacking history and to make a use of the powerful qalc.
+Rofi-qalc comes with an history, and rofi. I wanted to make this because menu-calc was lacking history and to make a use of the powerful qalc.
 ![Showcase 1](showcase1.png)
 ![Showcase 2](showcase2.png)
 
